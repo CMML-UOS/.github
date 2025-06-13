@@ -1,13 +1,33 @@
-Welcome to Computational Molecular Modeling Laboratory supervised by Prof. Rakwoo Chang, Department of Applied Chemistry, University of Seoul, Republic of Korea.
+# Computational Molecular Modeling Laboratory (CMML)
 
- 
+Welcome to the **Computational Molecular Modeling Laboratory (CMML)**, supervised by **Prof. Rakwoo Chang** in the **Department of Applied Chemistry, University of Seoul, Republic of Korea**.
 
-Our research goal is to understand interesting physical and biological phenomena using various computer simulation techniques such as Molecular Dynamics, Monte Carlo, and Brownian Dynamics simulations.
+## 🔬 About Us
 
- 
+Our research aims to understand fascinating **physical and biological phenomena** through advanced **computational simulation techniques**, including:
 
-Current research projects include organic photovoltaic cells, lithium-ion batteries, nanoparticles on biological membranes, structural behavior of neurofilaments, polymer dynamics in confined geometry, and etc.
+- Molecular Dynamics (MD)
+- Monte Carlo (MC)
+- Brownian Dynamics (BD)
 
- 
+## 💡 Current Research Topics
 
-If you have any questions, please contact rchang90@uos.ac.kr.
+We are currently exploring a variety of topics, including:
+
+- Organic Photovoltaic Cells  
+- Lithium-ion Batteries  
+- Nanoparticles on Biological Membranes  
+- Structural Behavior of Neurofilaments  
+- Polymer Dynamics in Confined Geometry  
+- ...and more.
+
+## 📬 Contact
+
+For inquiries or collaboration opportunities, please contact:
+
+**Prof. Rakwoo Chang**  
+📧 rchang90@uos.ac.kr
+
+---
+
+> This GitHub Organization hosts code, data, and other resources developed by CMML members and collaborators.
